@@ -1,5 +1,4 @@
-# daphne-p1
-# CSCI 8360 Data Science Practicum Spring 201 : Malware Classifier
+# daphne-p1 | CSCI 8360 Data Science Practicum Spring 201 : Malware Classifier
 ## Goal
 To develop a machine learning pipeline that classifies malware (input as byte strings) as accurately as possible.
 
