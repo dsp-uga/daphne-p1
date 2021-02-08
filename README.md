@@ -23,23 +23,23 @@ where word counts are, by default, adjusted using additive smoothing.
 ## Output
 
 ## Directories
-- datasets
+- ###datasets: 
   contains much smaller subsets of our final training and testing datasets for setup and initial experiments
-- features
+- ###features: 
   csv files containing the features we find for our malware data
-- notebooks
+- ###notebooks: 
   jupyter notebook python files, .jnb
-- output
+- ###output 
   files with results as output from experiments
 
 ## Branches
-- main
+- ###main: 
   master project branch for tested, working code accepted via pull requests
-- zain
+- ###zain: 
   meekail's development branch
-- vance
+- ###vance: 
   jonathan's development branch
-- shihan
+- ###shihan: 
   shihan's development branch
 
 ## Contributors
