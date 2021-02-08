@@ -6,7 +6,9 @@ To develop a machine learning pipeline that classifies malware (input as byte st
 These instructions describe the prerequisites and steps to get the project up and running.
 
 ## Setup
-This project can be easily set up on the Google Cloud Platform, using their Dataproc service for batch processing.
+This project can be easily set up on the Google Cloud Platform, using their Dataproc service for batch processing. Learn about Dataproc here https://cloud.google.com/dataproc/docs/concepts/overview .
+
+We recommend you setup a virtual environment and install the software listed in requirements.txt. We use Python version 3.7.
 
 ## Usage
 
