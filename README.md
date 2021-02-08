@@ -6,7 +6,7 @@ To develop a machine learning pipeline that classifies malware (input as byte st
 These instructions describe the prerequisites and steps to get the project up and running.
 
 ## Setup
-This project can be easily set up on the Google Cloud Platform, using a 'Compute Engine VM Instance'
+This project can be easily set up on the Google Cloud Platform, using their Dataproc service for batch processing.
 
 ## Usage
 
@@ -19,6 +19,26 @@ Yet to be fully determined, however soem potential features include:
 
 where word counts are, by default, adjusted using additive smoothing.
 ## Output
+
+## Directories
+- datasets
+  contains much smaller subsets of our final training and testing datasets for setup and initial experiments
+- features
+  csv files containing the features we find for our malware data
+- notebooks
+  jupyter notebook python files, .jnb
+- output
+  files with results as output from experiments
+
+## Branches
+- main
+  master project branch for tested, working code accepted via pull requests
+- zain
+  meekail's development branch
+- vance
+  jonathan's development branch
+- shihan
+  shihan's development branch
 
 ## Contributors
 See Contributors file for more details.
