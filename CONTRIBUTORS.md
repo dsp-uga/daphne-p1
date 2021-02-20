@@ -1,4 +1,7 @@
 Meekail Zain
+- Developed data preprocessing pipeline
+- Wrote an implementation of naive bayes
+- Implemented pyspark random forest classifier
 
 Jonathan Vance
 
