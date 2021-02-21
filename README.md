@@ -21,6 +21,7 @@ Yet to be fully determined, however soem potential features include:
 
 where word counts are, by default, adjusted using additive smoothing.
 ## Output
+A list of numerical predictions each corresponding to a virus, which we feed to an online scoring app.
 
 ## Directories
 - **datasets:**
