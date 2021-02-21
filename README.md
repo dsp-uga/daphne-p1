@@ -13,11 +13,7 @@ We recommend you setup a virtual environment and install the software listed in 
 ## Usage
 
 ## Features
-Yet to be fully determined, however soem potential features include:
-- Basic word count
-- Bigram count
-- Relative word frequency
-- Relative bigram frequency
+For features we used basic word counts with Laplace smoothing
 
 where word counts are, by default, adjusted using additive smoothing.
 ## Output
