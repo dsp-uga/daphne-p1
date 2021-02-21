@@ -4,6 +4,9 @@ Meekail Zain
 - Implemented pyspark random forest classifier
 
 Jonathan Vance
+- Documentation
+- Naive-Bayes pre-planning, coded a nonfunctional stub
+- Setup initial GCP instance for preliminary tests
 
 Shihan Ma
 - Initialized data preprocessing pipeline
