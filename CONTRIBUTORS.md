@@ -6,3 +6,6 @@ Meekail Zain
 Jonathan Vance
 
 Shihan Ma
+- Initialized data preprocessing pipeline
+- Coded a naive bayes classifier
+- Coded a random forest classifier
